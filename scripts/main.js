@@ -6,9 +6,9 @@ let myImage = document.querySelector('img');
 myImage.onclick = function() {
     let mySrc = myImage.getAttribute('src');
     if(mySrc === 'file:///C:/Users/kbged/Downloads/web-projects/images/firefox.png') {
-      myImage.setAttribute('src','file:///C:/Users/kbged/Downloads/web-projects/images/firefox2.jpg');
+      myImage.setAttribute('src','images/firefox2.jpg');
     } else {
-      myImage.setAttribute('src','file:///C:/Users/kbged/Downloads/web-projects/images/firefox.png');
+      myImage.setAttribute('src','images/firefox.png');
     }
 }
 
