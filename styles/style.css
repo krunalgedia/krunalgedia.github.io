@@ -1,0 +1,55 @@
+p, li, h1 {
+	color: red;
+}
+#my-id1{
+	color:blue;
+}
+.editor-cls{
+	color:yellow;
+}
+
+img[src]{
+	size:60px;
+}
+a:hover{
+	color:green;
+}
+
+html{
+	font-family: 'Pangolin', cursive;
+	font-size: 15px;
+	background-color: #D1ACF5;
+}
+h1 {
+	font-size: 60px;
+	text-align: center;
+}
+p, li {
+	font-size: 16px;
+	line-height: 1;
+	letter-spacing: 5px;
+}
+li{
+	line-height: 3;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #D3C2E4;
+  padding: 0 10px 10px 20px;
+  border: 5px solid blue;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+img[src] {
+  display: block;
+  margin: 0 auto;
+}
+
+
