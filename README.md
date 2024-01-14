@@ -34,7 +34,7 @@ Computer Vision, Classification, Segmentation
 ► Deployed final web application with GradCAM insights for both segmentation and classification.
 
 [More info](https://github.com/krunalgedia/BreastTumourClassificationAndSegmentationWithGradCAM)
-![image](https://github.com/krunalgedia/BreastTumourClassificationAndSegmentationWithGradCAM/blob/main/images_app/malignant.gif)
+![image](/assets/malignant.gif)
 
 
 ## Extract NER data from Switzerland's SBB train ticket using Document AI
@@ -45,7 +45,7 @@ NLP
 ► Deployed final web application that saves the NER data from the uploaded ticket directly to a relational database.
 
 [More info](https://github.com/krunalgedia/Extract-NER-data-from-the-Switzerland-SBB-train-ticket-using-Document-AI)
-![image](https://github.com/krunalgedia/SBB_TrainTicketParser/blob/main/images_app/test1.gif)
+![image](/assets/test1.gif)
 
 
 ## Fully open-source scalable RAG for general application
@@ -54,7 +54,7 @@ LLM, NLP
 ► Scalable RAG built using open source BAAI general embeddings and Mistral-7B LLM available in huggingface in LlamaIndex framework to obtain a Relevancy score of 0.9 against GPT-4’s score of 1.0.
 
 [More info](https://github.com/krunalgedia/Open_Source_Advanced_RAG_LlamaIndex_Huggingface)
-![image](https://github.com/krunalgedia/Open_Source_Advanced_RAG_LlamaIndex_Huggingface/blob/main/images_readme/ip2.png)
+![image](/assets/ip2.png)
 
 
 ## Multi-seasonal Multi-variate forecast of Zurich’s energy consumption
@@ -65,7 +65,7 @@ Time Series, Regression
 ► Implemented Holt-Winter’s model, SARIMA, Hybrid models (Linear regression to extrapolate trend, XGBoost for seasonality), Meta’s Prophet model, and biLSTM models to achieve R2 score of 0.82.
 
 [More info](https://github.com/krunalgedia/ZurichEnergyConsumption_MultivariateForecast)
-![image](https://github.com/krunalgedia/ZurichEnergyConsumption_MultivariateForecast/blob/main/images_app/lstm_ci%20(1).png)
+![image](/assets/lstm_ci%20(1).png)
 
 ## Text Classification using LLM for Switzerland’s WWF NGO
 LLM, NLP
@@ -75,7 +75,7 @@ LLM, NLP
 ► Bundled the final product in a lightweight web application for their internal use.
 
 [More info](https://github.com/krunalgedia/Text-Classification-using-LLM-for-Switzerland-s-WWF-NGO)
-![image](https://github.com/krunalgedia/Text-Classification-using-LLM-for-Switzerland-s-WWF-NGO/blob/main/images/sample%20(1).gif)
+![image](/assets/sample%20(1).gif)
 
 ## N-Dimensional parameterization of efficiency weights of Jet Classifier threshold using Graph Neural Networks
 Graph Neural Network, Classification
@@ -85,7 +85,7 @@ Graph Neural Network, Classification
 ► Work presented in ML4Jets conference 2022 as well as published as a Detector Performance Note by CMS, CERN.
 
 [More info](https://github.com/krunalgedia/jetClassiferEfficiencywithGNN)
-![image](/assets/QR.png)
+![image](/assets/gnn.png)
 
 ## Correct simulated data to real data using a new Custom Quantile Regression
 Regression
@@ -94,7 +94,7 @@ Regression
 
 ► Master thesis at CERN, Geneva. Work presented at the SPS Conference 2018.
 
-![image](/master/assets/QR.png)
+![image](/assets/QR.png)
 
 ## Strategy Consulting for HR-Tech Switzerland’s Startup
 
@@ -129,7 +129,7 @@ Google Cloud, AWS, Solution Architect, Terraform, DevOps
 ► Used IaaC Terraform for infrastructure set-up, deployed docker container on Google Kubernetes Engine with access to Cloud SQL database, and migrated data from AWS by syncing AWS S3 bucket with the local folder.
 
 [More info](https://github.com/krunalgedia/CovidTestingApp_MigrateOnPrem_To_HybridCloud)
-![image](https://github.com/krunalgedia/CovidTestingApp_MigrateOnPrem_To_HybridCloud/blob/main/images_app/solution_architecture.png)
+![image](/assets/solution_architecture.png)
 
 
 
