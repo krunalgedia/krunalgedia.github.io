@@ -5,20 +5,18 @@
 
 **Tech Skills:** 
 
-• Python data science tools: pandas, numpy, scikit-learn, Keras (TensorFlow), PyTorch, Huggingface, DGL, cv2, Llammaindex), <br>
-• Containerization tools (Docker, Kubernetes),<br> 
-• Cloud technologies (GCP, AWS), <br>
-• ML Model Web deployment (Streamlit, Fast API) <br>
+• Python data science tools: pandas, numpy, scikit-learn, Keras (TensorFlow), PyTorch, Huggingface, DGL, cv2, Llammaindex <br>
+• Containerization tools: Docker, Kubernetes<br> 
+• Cloud technologies: mainly GCP, AWS <br>
+• ML Model Web deployment: Streamlit, Fast API <br>
 • Git <br>
 • And some web developer skills (HTML, CSS, PHP) and languages (SQL, bash, R, C++)
 
 My [**AI in Gist**](https://krunalgedia.github.io/AI_in_GIST/) blog I recently started writing contains data science topics in gist: <br>
-* Preprocessing (outliers, missing values, encoding, etc), <br>
-* Statistics (Distribution, Hypothesis tests, etc) <br>
-* Classical ML (Classification, Regression, Time Series, Clustering) <br>
-* Deep Learning (>35 Computer Vision and NLP/LLM paper; still updating...)
-
-
+* Preprocessing: outliers, missing values, encoding, etc, <br>
+* Statistics: Distribution, Hypothesis tests, etc <br>
+* Classical ML: Classification, Regression, Time Series, Clustering <br>
+* Deep Learning: >35 Computer Vision and NLP/LLM paper; still updating...
 
 # Experience
 ## Data Scientist at CERN / ETH 
