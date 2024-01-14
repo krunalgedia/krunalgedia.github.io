@@ -1,8 +1,9 @@
-Krunal Gedia (B Permit)                                     
-Grosswiesenstrasse 142, 8051 Zürich   
-kbgedia24@gmail.com 
+• A Seasoned Data Scientist, ML Engineer, Cloud Enthusiast, and Passionate Consultant with 5+ years of experience in deriving valuable insights from complex data using statistical and ML tools in large international teams.
 
-Tech Skills: 
+• A calm, committed, open-minded, and focused individual with a can-do mindset looking for real-world exciting challenges and collaborations.
+
+
+**Tech Skills:** 
 
 Python data science tools (pandas, numpy, scikit-learn, Keras (TensorFlow), PyTorch, Huggingface, DGL, cv2, Llammaindex), <br>
 Containerization tools (Docker, Kubernetes),<br> 
