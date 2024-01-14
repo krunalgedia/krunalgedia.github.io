@@ -85,7 +85,7 @@ Graph Neural Network, Classification
 ► Work presented in ML4Jets conference 2022 as well as published as a Detector Performance Note by CMS, CERN.
 
 [More info](https://github.com/krunalgedia/jetClassiferEfficiencywithGNN)
-![image](https://github.com/krunalgedia/jetClassiferEfficiencywithGNN/blob/master/gnn.png)
+![image](/assets/QR.png)
 
 ## Correct simulated data to real data using a new Custom Quantile Regression
 Regression
@@ -94,7 +94,7 @@ Regression
 
 ► Master thesis at CERN, Geneva. Work presented at the SPS Conference 2018.
 
-![image](https://github.com/krunalgedia/krunalgedia.github.io/blob/master/assets/QR.png)
+![image](/master/assets/QR.png)
 
 ## Strategy Consulting for HR-Tech Switzerland’s Startup
 
