@@ -153,14 +153,14 @@ Computational Statistics with R | ETH Zürich | September 2019
 |Date|Honor|
 |---|--|
 |2016 - 2018|
-|Paris-Saclay Scholarship for International Masters Student (1 of ~150 international students)
+|Paris-Saclay Scholarship for International Masters Student (1 of ~150 international students)|
 |2016 - 2017|
-|Full Masters Charpak (French Government) scholarship (1 of ~30 students all over India)       
+|Full Masters Charpak (French Government) scholarship (1 of ~30 students all over India)      | 
 |2016|
-|Rank 136 out of ~10,000 students in the IIT JAM exam (Admission for masters in India)
+|Rank 136 out of ~10,000 students in the IIT JAM exam (Admission for masters in India)|
 |2016|
-|Highest marks in Bachelors in College Department.
+|Highest marks in Bachelors in College Department.|
 |2012 - 2013|
-|5-year Inspire scholarship by the Indian Govt. for being in the top 1% in Class 12 in India.                
+|5-year Inspire scholarship by the Indian Govt. for being in the top 1% in Class 12 in India.|              
 
 
