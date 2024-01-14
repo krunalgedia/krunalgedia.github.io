@@ -3,10 +3,29 @@ Grosswiesenstrasse 142, 8051 Zürich
 kbgedia24@gmail.com 
  +41-779428984 
 
+# Experience
 
-In a nutshell
-A Seasoned Data Scientist, ML Engineer, Cloud Enthusiast, and Passionate Consultant with 5+ years of experience in deriving valuable insights from complex data using statistical and ML tools in large international teams.
-A calm, committed, open-minded, and focused individual with a can-do mindset looking for real-world exciting challenges and collaborations.
+## Data Scientist at CERN / ETH 
+Feb 2018 - Present
+
+• Lead research scientist in the study to statistically reject the null hypothesis at a very high significance level of 0.00006 to confirm CERN, CMS’s 1st ever independent Higgs boson observation. Implemented an end-to-end data science pipeline (incl. decision trees and neural network classifiers) for large data (~TB) on the HPC cluster. 
+
+• Deployed state-of-the-art transformer-based Graph Neural Network model to reduce simulation statistical error in our scientific analysis by up to ~60%. 
+
+• Developed Quantile Regression Algorithm to regress quantiles of data using simulation input leading to reduction of simulation systematic error in several associated scientific measurements.
+
+# Projects
+
+## Explainable Breast tumor classification & semantic segmentationExplainable Breast tumor classification & semantic segmentation [LINK](https://github.com/krunalgedia/BreastTumourClassificationAndSegmentationWithGradCAM)
+Computer Vision
+
+► Transfer learning and fine-tuning CNN models like VGG19, ResNet, and EfficientNet as well as transformer models like Vision Transformer to achieve an average recall of 0.81 for classification.
+
+► Implemented UNet and its variation with attention and residual connections to achieve IoU of 0.72.
+
+► Deployed final web application with GradCAM insights for both segmentation and classification.
+
+[image](https://github.com/krunalgedia/BreastTumourClassificationAndSegmentationWithGradCAM/blob/main/images_app/malignant.gif)
 
 # Education and Certifications
 
