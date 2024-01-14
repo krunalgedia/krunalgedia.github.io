@@ -142,7 +142,7 @@ Website deployment using
 
 # Education
 
-**Degree** | **Institution** | **Dates Attended**
+**Degree** | **Institution** | **Duration**
 ---|---|---|
 Ph.D. in Physics | ETH Zürich | November 2018 - Present
 Masters in High Energy Physics | ETH Zürich | September 2017 - September 2018
@@ -151,7 +151,7 @@ Bachelors in Physics (Honours) | Delhi University | July 2013 - July 2016
 
 # Courses & Certifications
 
-**Certification** | **Institution** | **Dates Earned**
+**Certification** | **Institution** | **Date**
 ---|---|---|
 AWS Academy ML Foundation Badge | AWS Academy | December 2023
 Intensive Cloud Computing Hands-on Training | The Cloud Bootcamp | December 2023 - December 2024
