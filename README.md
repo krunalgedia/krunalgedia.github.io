@@ -12,7 +12,7 @@
 • Git <br>
 • And some web developer skills (HTML, CSS, PHP) and languages (SQL, bash, R, C++)
 
-My [**AI in Gist**](https://github.com/krunalgedia/AI_in_GIST) blog I recently started writing contains data science topics in gist: <br>
+My [**AI in Gist**](https://krunalgedia.github.io/AI_in_GIST/) blog I recently started writing contains data science topics in gist: <br>
 * Preprocessing (outliers, missing values, encoding, etc), <br>
 * Statistics (Distribution, Hypothesis tests, etc) <br>
 * Classical ML (Classification, Regression, Time Series, Clustering) <br>
