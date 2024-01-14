@@ -21,7 +21,7 @@ Feb 2018 - Present
 
 • Developed state-of-the-art attention-based Graph Neural Network model to reduce simulation statistical error by up to ~60% in our scientific analysis. 
 
-• Developed Quantile Regression Algorithm to regress data quantiles using simulation input leading to reduction of simulation systematic error in several associated scientific measurements.
+• Developed a new custom Quantile Regression Algorithm to regress data quantiles using simulation input leading to reduction of simulation systematic error in several associated scientific measurements.
 
 # Projects
 
