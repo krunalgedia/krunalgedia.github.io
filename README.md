@@ -94,7 +94,7 @@ Regression
 
 ► Master thesis at CERN, Geneva. Work presented at the SPS Conference 2018.
 
-![image](https://github.com/krunalgedia/krunalgedia.github.io/blob/master/images/QR.png)
+![image](https://github.com/krunalgedia/krunalgedia.github.io/blob/master/assets/QR.png)
 
 ## Strategy Consulting for HR-Tech Switzerland’s Startup
 
