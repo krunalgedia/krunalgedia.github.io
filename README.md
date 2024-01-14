@@ -101,7 +101,6 @@ Regression
 ► Master thesis at CERN, Geneva. Work presented at the SPS Conference 2018.
 
 ![image](/assets/QR.png)
-![image](/assets/solution_architecture.png)
 
 ## Strategy Consulting for HR-Tech Switzerland’s Startup
 
