@@ -25,7 +25,7 @@ Computer Vision
 
 ► Deployed final web application with GradCAM insights for both segmentation and classification.
 
-[image](https://github.com/krunalgedia/BreastTumourClassificationAndSegmentationWithGradCAM/blob/main/images_app/malignant.gif)
+![image](https://github.com/krunalgedia/BreastTumourClassificationAndSegmentationWithGradCAM/blob/main/images_app/malignant.gif)
 
 # Education and Certifications
 
