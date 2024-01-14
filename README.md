@@ -1,6 +1,6 @@
 • A Seasoned Data Scientist, ML Engineer, Cloud Enthusiast, and Passionate Consultant with 5+ years of experience in deriving valuable insights from complex data using statistical and ML tools in large international teams.
 
-• A calm, committed, open-minded, and focused individual with a can-do mindset looking for real-world exciting challenges and collaborations.
+• A calm, committed, open-minded, resilient, and focused individual with a will-do-it mindset looking for real-world exciting challenges and collaborations.
 
 
 **Tech Skills:** 
@@ -174,5 +174,3 @@ Computational Statistics with R | ETH Zürich | September 2019
 |2016|Rank 136 out of ~10,000 students in the IIT JAM exam (Admission for masters in India)|
 |2016|Highest marks in Bachelors in College Department (of ~150 students).|
 |2012 - 2013|5-year Inspire scholarship by the Indian Govt. for being in the top 1% in Class 12 in India.|              
-
-
