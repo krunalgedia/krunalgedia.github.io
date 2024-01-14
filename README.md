@@ -168,7 +168,8 @@ Computational Statistics with R | ETH Zürich | September 2019
 
 
 # Scholarships and Honors
-|Date|Honor|
+
+|Date|Achievement|
 |---|--|
 |2016 - 2018 |Paris-Saclay Scholarship for International Masters Student (1 of ~150 international students)|
 |2016 - 2017|Full Masters Charpak (French Government) scholarship (1 of ~30 students all over India)      | 
