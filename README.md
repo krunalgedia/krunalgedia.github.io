@@ -16,7 +16,7 @@ My [**AI in Gist**](https://krunalgedia.github.io/AI_in_GIST/) blog I recently s
 * Preprocessing: outliers, missing values, encoding, etc, <br>
 * Statistics: Distribution, Hypothesis tests, etc <br>
 * Classical ML: Classification, Regression, Time Series, Clustering <br>
-* Deep Learning: >35 Computer Vision and NLP/LLM paper; still updating...
+* Deep Learning: 35+ Computer Vision and NLP/LLM paper; still updating...
 
 # Experience
 ## Data Scientist at CERN / ETH 
