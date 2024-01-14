@@ -16,16 +16,20 @@ Feb 2018 - Present
 
 # Projects
 
-## Explainable Breast tumor classification & semantic segmentationExplainable Breast tumor classification & semantic segmentation [LINK](https://github.com/krunalgedia/BreastTumourClassificationAndSegmentationWithGradCAM)
+## Explainable Breast tumor classification & semantic segmentationExplainable Breast tumor classification & semantic segmentation 
 Computer Vision
 
 ► Transfer learning and fine-tuning CNN models like VGG19, ResNet, and EfficientNet as well as transformer models like Vision Transformer to achieve an average recall of 0.81 for classification.
-
 ► Implemented UNet and its variation with attention and residual connections to achieve IoU of 0.72.
-
 ► Deployed final web application with GradCAM insights for both segmentation and classification.
 
+[More info](https://github.com/krunalgedia/BreastTumourClassificationAndSegmentationWithGradCAM)
 ![image](https://github.com/krunalgedia/BreastTumourClassificationAndSegmentationWithGradCAM/blob/main/images_app/malignant.gif)
+
+
+
+
+
 
 # Education and Certifications
 
