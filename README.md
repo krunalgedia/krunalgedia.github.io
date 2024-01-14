@@ -31,7 +31,7 @@ Feb 2018 - Present
 # Projects
 
 ## Explainable Breast tumor classification & semantic segmentationExplainable Breast tumor classification & semantic segmentation 
-Computer Vision, Classification, Segmentation
+**Computer Vision, Classification, Segmentation**
 
 ► Transfer learning and fine-tuning CNN models like VGG19, ResNet, and EfficientNet as well as transformer models like Vision Transformer to achieve an average recall of 0.81 for classification.
 
@@ -44,7 +44,7 @@ Computer Vision, Classification, Segmentation
 
 
 ## Extract NER data from Switzerland's SBB train ticket using Document AI
-NLP
+**NLP**
 
 ► OCR and text localization of tickets using pytesseract and UBIAI, fine-tuned Meta’s multimodal LayoutLM model to achieve an average accuracy of 0.90 for the NER task. 
 
@@ -55,7 +55,7 @@ NLP
 
 
 ## Fully open-source scalable RAG for general application
-LLM, NLP
+**LLM, NLP**
 
 ► Scalable RAG built using open source BAAI general embeddings and Mistral-7B LLM available in huggingface in LlamaIndex framework to obtain a Relevancy score of 0.9 against GPT-4’s score of 1.0.
 
@@ -64,7 +64,7 @@ LLM, NLP
 
 
 ## Multi-seasonal Multi-variate forecast of Zurich’s energy consumption
-Time Series, Regression
+**Time Series, Regression**
 
 ► Multi-seasonal multi-variate energy consumption forecast of Zurich city’s energy consumption using also the weather data (temperature, cloud coverage, humidity, precipitation). 
 
@@ -74,7 +74,7 @@ Time Series, Regression
 ![image](/assets/lstm_ci%20(1).png)
 
 ## Text Classification using LLM for Switzerland’s WWF NGO
-LLM, NLP
+**LLM, NLP**
 
 ► Performed advanced prompt engineering on OpenAI GPT models to classify their articles for constructiveness.
 
@@ -84,7 +84,7 @@ LLM, NLP
 ![image](/assets/sample%20(1).gif)
 
 ## N-Dimensional parameterization of efficiency weights of Jet Classifier threshold using Graph Neural Networks
-Graph Neural Network, Classification
+**Graph Neural Network, Classification**
 
 ► Developed state-of-the-art attention-based Graph Neural Network regression model to reduce simulation statistical error in our scientific analysis by up to ~60%.
 
@@ -94,7 +94,7 @@ Graph Neural Network, Classification
 ![image](/assets/gnn.png)
 
 ## Correct simulated data to real data using a new Custom Quantile Regression
-Regression
+**Regression**
 
 ► Developed a new Stochastic Morphing Algorithm (Binary Classification + Quantile Regression) to match quantiles of discontinuous data and simulation leading to the reduction of simulation systematic error in several associated scientific measurements.
 
@@ -103,13 +103,14 @@ Regression
 ![image](/assets/QR.png)
 
 ## Strategy Consulting for HR-Tech Switzerland’s Startup
+**Strategy Consulting**
 
 ► Strategy consulting for an HR-tech firm by creating hypotheses for client's concerns, gathering market data, and generating insights to develop an effective strategy to address the client's needs.
 
 ► The project was done in association with the SGraduate Consulting Club.
 
 ## European Loan Risk Prediction Model using Google Cloud Vertex AI, Cloud Run, and FAST API 
-Google Cloud Platform, MLPOps, Docker, Regression
+**Google Cloud Platform, MLPOps, Docker, Regression**
 
 ► ETL raw data and trained a neural network classifier model using Vertex AI Custom training and deployed it on 
 
@@ -119,7 +120,7 @@ Google Cloud Platform, MLPOps, Docker, Regression
 
 
 ## Website deployment on Google Cloud Load Balanced Compute Engine and Kubernetes Engine
-Google Cloud, DevOps, Docker, Kubernetes
+**Google Cloud, DevOps, Docker, Kubernetes**
 
 ► Sole website developer of the website for file conversion and manipulations. (HTML, CSS, PHP, JS) 
 
@@ -128,7 +129,7 @@ Website deployment using
 ● Google Kubernetes Engine: HTTP traffic directed to an Ingress-managed External Load Balancer Service with backend pods maintained by the Deployment Set/Workloads. A custom docker image of the website is built for the containers managed by the Deployment Set.
 
 ## On-premise to hybrid cloud (AWS, GCP) migration of a COVID testing web application
-Google Cloud, AWS, Solution Architect, Terraform, DevOps
+**Google Cloud, AWS, Solution Architect, Terraform, DevOps**
 
 ► Migrate a real COVID testing web application to a scalable Hybrid cloud environment using AWS and GCP. 
 
