@@ -2,8 +2,16 @@ Krunal Gedia (B Permit)
 Grosswiesenstrasse 142, 8051 Zürich   
 kbgedia24@gmail.com 
 
-# Experience
+Tech Skills: 
 
+Python data science tools (pandas, numpy, scikit-learn, Keras (TensorFlow), PyTorch, Huggingface, DGL, cv2, Llammaindex), 
+Containerization tools (Docker, Kubernetes), 
+Cloud technologies (GCP, AWS), 
+Git 
+And some web developer skills (HTML, CSS, PHP) and languages (SQL, bash, R, C++)
+
+
+# Experience
 ## Data Scientist at CERN / ETH 
 Feb 2018 - Present
 
