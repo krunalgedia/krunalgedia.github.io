@@ -4,10 +4,10 @@ kbgedia24@gmail.com
 
 Tech Skills: 
 
-Python data science tools (pandas, numpy, scikit-learn, Keras (TensorFlow), PyTorch, Huggingface, DGL, cv2, Llammaindex), 
-Containerization tools (Docker, Kubernetes), 
-Cloud technologies (GCP, AWS), 
-Git 
+Python data science tools (pandas, numpy, scikit-learn, Keras (TensorFlow), PyTorch, Huggingface, DGL, cv2, Llammaindex), <br>
+Containerization tools (Docker, Kubernetes),<br> 
+Cloud technologies (GCP, AWS), <br>
+Git <br>
 And some web developer skills (HTML, CSS, PHP) and languages (SQL, bash, R, C++)
 
 
