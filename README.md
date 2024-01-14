@@ -7,6 +7,7 @@ Tech Skills:
 Python data science tools (pandas, numpy, scikit-learn, Keras (TensorFlow), PyTorch, Huggingface, DGL, cv2, Llammaindex), <br>
 Containerization tools (Docker, Kubernetes),<br> 
 Cloud technologies (GCP, AWS), <br>
+ML Model Web deployment (Streamlit, Fast API) <br>
 Git <br>
 And some web developer skills (HTML, CSS, PHP) and languages (SQL, bash, R, C++)
 
