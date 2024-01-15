@@ -124,8 +124,10 @@ Feb 2018 - Present
 
 ► Sole website developer of the website for file conversion and manipulations. (HTML, CSS, PHP, JS) 
 
-Website deployment using 
+Website deployment using
+
 ● Google Compute Engine: Global External HTTP-Proxy Load Balancer to direct HTTP traffic to Managed Instance Groups at the backend created from an instance template with a custom machine image to host the website.
+
 ● Google Kubernetes Engine: HTTP traffic directed to an Ingress-managed External Load Balancer Service with backend pods maintained by the Deployment Set/Workloads. A custom docker image of the website is built for the containers managed by the Deployment Set.
 
 ## On-premise to hybrid cloud (AWS, GCP) migration of a COVID testing web application
