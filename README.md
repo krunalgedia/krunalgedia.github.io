@@ -86,7 +86,7 @@ Feb 2018 - Present
 ## N-Dimensional parameterization of efficiency weights of Jet Classifier threshold using Graph Neural Networks
 **Graph Neural Network, Classification**
 
-► Developed state-of-the-art attention-based Graph Neural Network regression model to reduce simulation statistical error in our scientific analysis by up to ~60%.
+► Developed state-of-the-art attention-based Graph Neural Network classification model to reduce simulation statistical error in our scientific analysis by up to ~60%.
 
 ► Work presented in ML4Jets conference 2022 as well as published as a Detector Performance Note by CMS, CERN.
 
@@ -107,7 +107,7 @@ Feb 2018 - Present
 
 ► Strategy consulting for an HR-tech firm by creating hypotheses for client's concerns, gathering market data, and generating insights to develop an effective strategy to address the client's needs.
 
-► The project was done in association with the SGraduate Consulting Club.
+► The project was done in association with the Graduate Consulting Club, Zurich.
 
 ## European Loan Risk Prediction Model using Google Cloud Vertex AI, Cloud Run, and FAST API 
 **Google Cloud Platform, MLPOps, Docker, Regression**
