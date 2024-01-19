@@ -5,16 +5,16 @@
 
 **Tech Skills:** 
 
-• Python data science tools: pandas, numpy, scikit-learn, Keras (TensorFlow), PyTorch, Huggingface, DGL, cv2, Llammaindex <br>
+• Python data science tools: pandas, numpy, scikit-learn, Keras (TensorFlow), PyTorch, Huggingface, DGL, Llammaindex <br>
 • Containerization tools: Docker, Kubernetes<br> 
 • Cloud technologies: mainly GCP, AWS <br>
 • ML Model Web deployment: Streamlit, Fast API <br>
 • Git <br>
 • And some web developer skills (HTML, CSS, PHP) and languages (SQL, bash, R, C++)
 
-My [**AI in Gist**](https://krunalgedia.github.io/AI_in_GIST/) blog I recently started writing contains several data science topics in one place in gist: <br>
+I recently started writing [**AI in Gist**](https://krunalgedia.github.io/AI_in_GIST/) blog, which contains gist of several data science topics in one place: <br>
 * Preprocessing: outliers, missing values, encoding, etc, <br>
-* Statistics: Distribution, Hypothesis tests, etc <br>
+* Statistics: Distributions, Hypothesis tests, etc <br>
 * Classical ML: Classification, Regression, Time Series, Clustering <br>
 * Deep Learning: 35+ Computer Vision and NLP/LLM paper; still updating...
 
@@ -22,7 +22,7 @@ My [**AI in Gist**](https://krunalgedia.github.io/AI_in_GIST/) blog I recently s
 ## Data Scientist at CERN / ETH 
 Feb 2018 - Present
 
-• Lead research scientist in the study to statistically reject the null hypothesis at a very high significance level of 0.00006 to confirm CERN, CMS’s 1st ever independent Higgs boson observation. Implemented an end-to-end data science pipeline (incl. decision trees and neural network classifiers) for large data (~TB) on the HPC cluster. 
+• Lead research scientist in the study to statistically reject the null hypothesis at a very high significance level of 6*10-6 to confirm CERN, CMS’s 1st ever independent Higgs boson observation. Implemented an end-to-end data science pipeline (incl. decision trees and neural network classifiers) for large data (~TB) on the HPC cluster. 
 
 • Developed state-of-the-art attention-based Graph Neural Network model to reduce simulation statistical error by up to ~60% in our scientific analysis. 
 
@@ -30,7 +30,7 @@ Feb 2018 - Present
 
 # Projects
 
-## Explainable Breast tumor classification & semantic segmentationExplainable Breast tumor classification & semantic segmentation 
+## Explainable Breast tumor classification & semantic segmentation
 **Computer Vision, Classification, Segmentation**
 
 ► Transfer learning and fine-tuning CNN models like VGG19, ResNet, and EfficientNet as well as transformer models like Vision Transformer to achieve an average recall of 0.81 for classification.
