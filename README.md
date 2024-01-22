@@ -24,7 +24,7 @@ Feb 2018 - Present
 
 • Lead research scientist in the study to statistically reject the null hypothesis at a very high significance level of 6*10-6 to confirm CERN, CMS’s 1st ever independent Higgs boson observation. Implemented an end-to-end data science pipeline (incl. decision trees and neural network classifiers) for large data (~TB) on the HPC cluster. 
 
-• Developed state-of-the-art attention-based Graph Neural Network model to reduce simulation statistical error by up to ~60% in our scientific analysis. 
+• Trained a custom Graph Neural Network Classification model having both node and edge features using MLP as Message Passing function, Summation as an Aggregation function, and MLP as an Update function coupled with Graph (Additive) Attention (GATv2) model leading up to ~60% reduction in simulation statistical error in our analysis.
 
 • Developed a new custom Quantile Regression Algorithm to regress data quantiles using simulation input leading to reduction of simulation systematic error in several associated scientific measurements.
 
@@ -92,7 +92,7 @@ Feb 2018 - Present
 ## N-Dimensional parameterization of efficiency weights of Jet Classifier threshold using Graph Neural Networks
 **Graph Neural Network, Classification**
 
-► Developed state-of-the-art attention-based Graph Neural Network classification model to reduce simulation statistical error in our scientific analysis by up to ~60%.
+► Trained a custom Graph Neural Network Classification model having both node and edge features using MLP as Message Passing function, Summation as an Aggregation function, and MLP as an Update function coupled with Graph Attention (GATv2) model leading up to ~60% reduction in simulation statistical error in our analysis.
 
 ► Work presented in ML4Jets conference 2022 as well as published as a Detector Performance Note by CMS, CERN.
 
