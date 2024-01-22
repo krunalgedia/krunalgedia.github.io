@@ -44,7 +44,7 @@ Feb 2018 - Present
 
 
 ## Extract NER data from Switzerland's SBB train ticket using Document AI
-**NLP**
+**NLP, Document AI**
 
 ► OCR and text localization of tickets using pytesseract and UBIAI, fine-tuned Meta’s multimodal LayoutLM model to achieve an average accuracy of 0.90 for the NER task. 
 
@@ -53,6 +53,12 @@ Feb 2018 - Present
 [More info](https://github.com/krunalgedia/Extract-NER-data-from-the-Switzerland-SBB-train-ticket-using-Document-AI)
 ![image](/assets/test1.gif)
 
+## Document Classification of Sweden’s Hexagon Annual Report using Document AI model
+**NLP, Document AI**
+
+► Using bounding box and text extracted using EasyOCR, fine-tuned Meta’s multimodal LayoutLMv3 to classify Sweden’s Hexagon’s Cashflow, Income statement and balance sheet available in its Annual Report to achieve an F1 score of 0.9.
+
+![image](/assets/doc_classify.gif)
 
 ## Fully open-source scalable RAG for general application
 **LLM, NLP**
@@ -101,6 +107,16 @@ Feb 2018 - Present
 ► Master thesis at CERN, Geneva. Work presented at the SPS Conference 2018.
 
 ![image](/assets/QR.png)
+
+
+## Predict Risk Rating for Prudential Life Insurance Applicants
+**Regression, Combined Actuarial Neural Network, SHAP**
+
+► Performed supervised multi-class classification of risk rating using ML models like Logistic Regression, XGBoost, & Combined Actuarial Neural Network to achieve Mathew’s correlation coefficient score 0.63.
+
+► Interpretability of classical ML models provided using the SHAP values.
+
+
 
 ## Strategy Consulting for HR-Tech Switzerland’s Startup
 **Strategy Consulting**
