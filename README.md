@@ -58,7 +58,7 @@ Feb 2018 - Present
 
 ► Using bounding box and text extracted using EasyOCR, fine-tuned Meta’s multimodal LayoutLMv3 to classify Sweden’s Hexagon’s Cashflow, Income statement and balance sheet available in its Annual Report to achieve an F1 score of 0.9.
 
-![image](/assets/doc_classify.gif)
+![image](/assets/docclassify2.gif)
 
 ## Fully open-source scalable RAG for general application
 **LLM, NLP**
@@ -116,7 +116,7 @@ Feb 2018 - Present
 
 ► Interpretability of classical ML models provided using the SHAP values.
 
-
+![image](/assets/insurance.gif)
 
 ## Strategy Consulting for HR-Tech Switzerland’s Startup
 **Strategy Consulting**
