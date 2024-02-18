@@ -116,6 +116,7 @@ Feb 2018 - Present
 
 ► Interpretability of classical ML models provided using the SHAP values.
 
+[More info](https://github.com/krunalgedia/RiskRating_for_Prudential_Life_Insurance_applicants)
 ![image](/assets/insurance.gif)
 
 ## Strategy Consulting for HR-Tech Switzerland’s Startup
