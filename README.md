@@ -58,6 +58,8 @@ Feb 2018 - Present
 
 ► Using bounding box and text extracted using EasyOCR, fine-tuned Meta’s multimodal LayoutLMv3 to classify Sweden’s Hexagon’s Cashflow, Income statement and balance sheet available in its Annual Report to achieve an F1 score of 0.9.
 
+► Deployed the ML model using FAST API application in AWS cloud through CI/CD of GitHub Actions.
+
 ![image](/assets/docclassify2.gif)
 
 ## Fully open-source scalable RAG for general application
