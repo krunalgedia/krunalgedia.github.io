@@ -10,13 +10,13 @@
 • Cloud technologies: mainly GCP, AWS <br>
 • ML Model Web deployment: Streamlit, Fast API <br>
 • Git <br>
-• And some web developer skills (HTML, CSS, PHP) and languages (SQL, bash, R, C++)
+• And some web developer skills (HTML, CSS, PHP) and languages (SQL, bash, R, basic C++)
 
-I recently started writing [**AI in Gist**](https://krunalgedia.github.io/AI_in_GIST/) blog, which contains gist of several data science topics in one place: <br>
+I recently started writing [**AI in Gist**](https://krunalgedia.github.io/AI_in_GIST/) blog, which contains the gist of several data science topics in one place: <br>
 * Preprocessing: outliers, missing values, encoding, etc, <br>
 * Statistics: Distributions, Hypothesis tests, etc <br>
 * Classical ML: Classification, Regression, Time Series, Clustering <br>
-* Deep Learning: 35+ Computer Vision and NLP/LLM paper; still updating...
+* Deep Learning: 40+ Computer Vision and NLP/LLM paper; still updating...
 
 # Experience
 ## Data Scientist at CERN / ETH 
