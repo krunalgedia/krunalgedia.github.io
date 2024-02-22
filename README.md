@@ -43,12 +43,12 @@ Feb 2018 - Present
 ![image](/assets/malignant.gif)
 
 
-## Extract NER data from Switzerland's SBB train ticket using Document AI
+## Extract NER/traveler’s data from Switzerland’s SBB train ticket
 **NLP, Document AI**
 
-► OCR and text localization of tickets using pytesseract and UBIAI, fine-tuned Meta’s multimodal LayoutLM model to achieve an average accuracy of 0.90 for the NER task. 
+► Performed OCR to extract text and bounding box of SBB tickets using Pytesseract and UBIAI, fine-tuned Meta’s multimodal LayoutLM model to achieve an average accuracy of 0.90 for the NER task. 
 
-► Deployed final web application that saves the NER data from the uploaded ticket directly to a relational database.
+► Deployed final web application that saves the traveler’s data from the ticket directly to a database.
 
 [More info](https://github.com/krunalgedia/Extract-NER-data-from-the-Switzerland-SBB-train-ticket-using-Document-AI)
 ![image](/assets/test1.gif)
@@ -56,7 +56,7 @@ Feb 2018 - Present
 ## Document Classification of Sweden’s Hexagon Annual Report using Document AI model
 **NLP, Document AI**
 
-► Using bounding box and text extracted using EasyOCR, fine-tuned Meta’s multimodal LayoutLMv3 to classify Sweden’s Hexagon’s Cashflow, Income statement and balance sheet available in its Annual Report to achieve an F1 score of 0.9.
+► Bounding box and text extracted using EasyOCR, fine-tuned Meta’s multimodal LayoutLMv3 to classify Cash flow, Income statement, and Balance sheet from its Annual Report to achieve an F1 score of 0.9.
 
 ► Deployed the ML model using FAST API application in AWS cloud through CI/CD of GitHub Actions.
 
@@ -81,7 +81,7 @@ Feb 2018 - Present
 [More info](https://github.com/krunalgedia/ZurichEnergyConsumption_MultivariateForecast)
 ![image](/assets/lstm_ci%20(1).png)
 
-## Text Classification using LLM for Switzerland’s WWF NGO
+## Text Classification and Summarization using LLM for Switzerland’s WWF NGO
 **LLM, NLP**
 
 ► Performed advanced prompt engineering on OpenAI GPT models to classify their articles for constructiveness.
@@ -90,6 +90,14 @@ Feb 2018 - Present
 
 [More info](https://github.com/krunalgedia/Text-Classification-using-LLM-for-Switzerland-s-WWF-NGO)
 ![image](/assets/sample%20(1).gif)
+
+## Context and Popularity based Recommendation System for Switzerland’s COOP Online Website
+**Recommendation System, Clustering, NLP**
+
+► Extracted contextualized embeddings using pre-trained distil-RoBERTa model for its products, clustered them using K-means, stored centroids in FAISS, and provided visualization of clusters using PCA. 
+
+► Searched the closest cluster to the test item & recommended the cluster items based on their popularity.
+
 
 ## N-Dimensional parameterization of efficiency weights of Jet Classifier threshold using Graph Neural Networks
 **Graph Neural Network, Classification**
