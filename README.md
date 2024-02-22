@@ -129,7 +129,7 @@ Feb 2018 - Present
 [More info](https://github.com/krunalgedia/RiskRating_for_Prudential_Life_Insurance_applicants)
 ![image](/assets/insurance.gif)
 
-## Strategy Consulting for HR-Tech Switzerland’s Startup
+## Strategy Consulting for Switzerland’s HR-Tech Startup
 **Strategy Consulting**
 
 ► Strategy consulting for an HR-tech firm by creating hypotheses for client's concerns, gathering market data, and generating insights to develop an effective strategy to address the client's needs.
