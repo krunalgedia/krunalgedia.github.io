@@ -71,7 +71,7 @@ Feb 2018 - Present
 ![image](/assets/ip2.png)
 
 
-## Multi-seasonal Multi-variate forecast of Zurich’s energy consumption
+## Multi-seasonal Multi-variate forecast of Zurich’s 2023 energy consumption
 **Time Series, Regression**
 
 ► Multi-seasonal multi-variate energy consumption forecast of Zurich city’s energy consumption using also the weather data (temperature, cloud coverage, humidity, precipitation). 
