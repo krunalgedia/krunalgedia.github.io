@@ -33,9 +33,9 @@ Feb 2018 - Present
 ## Explainable Breast tumor classification & semantic segmentation
 **Computer Vision, Classification, Segmentation**
 
-► Transfer learning and fine-tuning CNN models like VGG19, ResNet, and EfficientNet as well as transformer models like Vision Transformer to achieve an average recall of 0.81 for classification.
+► Fine-tuned CNN models like VGG19, ResNet, and EfficientNet as well as transformer models like Vision Transformer to achieve an average recall of 0.81 for classification.
 
-► Implemented UNet and its variation with attention and residual connections to achieve an IoU of 0.72.
+► Segmentation using UNet & its variation with attention and residual connection to achieve mIoU of 0.72.
 
 ► Deployed final web application with GradCAM insights for both segmentation and classification.
 
