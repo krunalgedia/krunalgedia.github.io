@@ -53,7 +53,7 @@ Feb 2018 - Present
 [More info](https://github.com/krunalgedia/Extract-NER-data-from-the-Switzerland-SBB-train-ticket-using-Document-AI)
 ![image](/assets/test1.gif)
 
-## Document Classification of Sweden’s Hexagon Annual Report with CI/CD to AWS using GitHub Actions
+## Document Classification of Sweden’s Hexagon Annual Report with CI/CD of FastAPI app to AWS using GitHub Actions
 **NLP, Document AI**
 
 ► Bounding box and text extracted using EasyOCR, fine-tuned Meta’s multimodal LayoutLMv3 to classify Cash flow, Income statement, and Balance sheet from its Annual Report to achieve an F1 score of 0.9.
