@@ -164,6 +164,7 @@ Website deployment using
 
 ► Used IaaC Terraform for infrastructure set-up, deployed docker container on Google Kubernetes Engine with access to Cloud SQL database, and migrated data from AWS by syncing AWS S3 bucket with the local folder.
 
+► This project was done as a part of the Intensive Cloud Computing Hands-on Training conducted by The Cloud Bootcamp in Dec 2023
 [More info](https://github.com/krunalgedia/CovidTestingApp_MigrateOnPrem_To_HybridCloud)
 ![image](/assets/solution_architecture.png)
 
