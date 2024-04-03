@@ -157,6 +157,9 @@ Website deployment using
 
 ● Google Kubernetes Engine: HTTP traffic directed to an Ingress-managed External Load Balancer Service with backend pods maintained by the Deployment Set/Workloads. A custom docker image of the website is built for the containers managed by the Deployment Set.
 
+[More info](https://github.com/krunalgedia/reliablepdf/tree/master/public_html)
+![image](https://github.com/krunalgedia/krunalgedia.github.io/blob/master/images/reliablepdf_website.gif)
+
 ## On-premise to hybrid cloud (AWS, GCP) migration of a COVID testing web application
 **Google Cloud, AWS, Solution Architect, Terraform, DevOps**
 
