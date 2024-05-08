@@ -42,9 +42,15 @@ Feb 2018 - Present
 [More info](https://github.com/krunalgedia/BreastTumourClassificationAndSegmentationWithGradCAM)
 ![image](/assets/malignant.gif)
 
+## 0-shot Breast tumor detection & semantic segmentation
+**Computer Vision, Object Detection, Segmentation**
+
+►  0-shot object (tumor) detection using Grounding DINO.
+
+►  Using it as layout input for segmentation by Meta’s Segment Anything Model and achieved mIoU of 0.69.
 
 ## Extract NER/traveler’s data from Switzerland’s SBB train ticket
-**NLP, Document AI**
+**NLP, NER, Multi-modal, CV**
 
 ► Performed OCR to extract text and bounding box of SBB tickets using Pytesseract and UBIAI, fine-tuned Meta’s multimodal LayoutLM model to achieve an average accuracy of 0.90 for the NER task. 
 
@@ -54,16 +60,17 @@ Feb 2018 - Present
 ![image](/assets/test1.gif)
 
 ## Document Classification of Sweden’s Hexagon Annual Report with CI/CD of FastAPI app to AWS using GitHub Actions
-**NLP, Document AI**
+**NLP, Classification, Multi-modal, CV**
 
 ► Bounding box and text extracted using EasyOCR, fine-tuned Meta’s multimodal LayoutLMv3 to classify Cash flow, Income statement, and Balance sheet from its Annual Report to achieve an F1 score of 0.9.
 
 ► Deployed the ML model using FAST API application in AWS cloud through CI/CD of GitHub Actions.
 
+[More info](https://github.com/krunalgedia/Document_classifier_with_GithubCICD_FASTAPI_AWS)
 ![image](/assets/docclassify2.gif)
 
 ## Fully open-source scalable RAG for general application
-**LLM, NLP**
+**LLM, NLP, RAG**
 
 ► Scalable RAG built using open source BAAI general embeddings and Mistral-7B LLM available in huggingface in LlamaIndex framework to obtain a Relevancy score of 0.9 against GPT-4’s score of 1.0.
 
@@ -82,7 +89,7 @@ Feb 2018 - Present
 ![image](/assets/lstm_ci%20(1).png)
 
 ## Text Classification and Summarization using LLM for Switzerland’s WWF NGO
-**LLM, NLP**
+**LLM, NLP, Summarization**
 
 ► Performed advanced prompt engineering on OpenAI GPT models to classify their articles for constructiveness.
 
@@ -98,6 +105,8 @@ Feb 2018 - Present
 
 ► Searched the closest cluster to the test item & recommended the cluster items based on their popularity.
 
+[More info](https://github.com/krunalgedia/COOP_contextual_recommender)
+![image](/assets/coop_reco.gif)
 
 ## N-Dimensional parameterization of efficiency weights of Jet Classifier threshold using Graph Neural Networks
 **Graph Neural Network, Classification**
