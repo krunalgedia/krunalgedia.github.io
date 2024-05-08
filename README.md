@@ -49,6 +49,8 @@ Feb 2018 - Present
 
 ►  Using it as layout input for segmentation by Meta’s Segment Anything Model and achieved mIoU of 0.69.
 
+![image](/assets/sam.png)
+
 ## Extract NER/traveler’s data from Switzerland’s SBB train ticket
 **NLP, NER, Multi-modal, CV**
 
