@@ -22,11 +22,14 @@ I recently started writing [**AI in Gist**](https://krunalgedia.github.io/AI_in_
 ## Data Scientist at CERN / ETH 
 Feb 2018 - Present
 
-• Lead research scientist in the study to statistically reject the null hypothesis at a very high significance level of 6*10-6 to confirm CERN, CMS’s 1st ever independent Higgs boson observation. Implemented an end-to-end data science pipeline (incl. decision trees and neural network classifiers) for large data (~TB) on the HPC cluster. 
+• Lead research scientist in the study to statistically reject the null hypothesis at a very high significance level of 6*10-6 to confirm CERN’s 1st independent Higgs boson observation. 
 
-• Trained a custom Graph Neural Network Classification model having both node and edge features using MLP as Message Passing function, Summation as an Aggregation function, and MLP as an Update function coupled with Graph (Additive) Attention (GATv2) model leading up to ~60% reduction in simulation statistical error in our analysis.
+• Implemented an end-to-end data science pipeline (incl. decision tree ensembles & neural network classifiers) for (~TB) datasets on the distributed HPC cluster. 
 
-• Developed a new custom Quantile Regression Algorithm to regress data quantiles using simulation input leading to reduction of simulation systematic error in several associated scientific measurements.
+• Developed a custom Graph Neural Network Node Classification model having both node and edge features with MLP as Message Passing function coupled with Multiplicative Attention to reduce ~60% statistical error in our results.
+
+• Developed a custom Quantile Regression Algorithm to regress data quantiles to reduce systematic error in several associated scientific results.
+
 
 # Projects
 
