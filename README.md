@@ -26,7 +26,7 @@ Feb 2018 - Present
 
 • Implemented an end-to-end data science pipeline (incl. decision tree ensembles & neural network classifiers) for (~TB) datasets on the distributed HPC cluster. 
 
-• Developed a custom Graph Neural Network Node Classification model having both node and edge features with MLP as Message Passing function coupled with Multiplicative Attention to reduce ~60% statistical error in our results.
+• Developed a custom Graph Neural Network Node Classification model with node and edge features, MLP as Message Passing function coupled with Multiplicative Attention to reduce ~60% statistical error in our results.
 
 • Developed a custom Quantile Regression Algorithm to regress data quantiles to reduce systematic error in several associated scientific results.
 
